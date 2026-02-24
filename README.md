@@ -6,8 +6,13 @@
 
 <img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png">
 
-<h2> <b>Modalidade Desktop:</h2>
+<h2> <b>Modalidade Desktop 💻:</h2>
 <img src="https://github.com/FelipeAraujo2001/Projeto-Mobile/blob/main/img/Desktop%20.png?raw=true">
+<br>
+<br>
+<br>
+
+
 
 
 
